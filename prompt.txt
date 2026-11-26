@@ -1,0 +1,34 @@
+Write one funny one-line review that a dog gives the mailman, under 200 characters.
+
+The line is a review, written in the dog's own voice. It must be about
+the mailman's daily visit: the knock, the letters through the slot, the
+barking at the gate, the chase, the retreat.
+
+Angles to try (one candidate per angle, all different):
+1. Old grudge — the dog has hated this man for years and keeps score.
+2. Bribe — the mailman never brings a biscuit, or the dog demands tribute.
+3. Star-rating review — one star / five stars with a reason that
+   contradicts the rating.
+4. Daily routine — the visit is the dog's alarm clock, cardio, whole day.
+5. Suspicion — same uniform, same time, clearly up to something.
+6. Small triumph — I bark, he runs, I win again.
+7. Secret affection — the tail wags, but the dog will never admit it.
+8. The mail itself — paper the dog can't read, coupons the dog can eat.
+9. The dog as a drama queen — the visit is the highlight of his life.
+10. Reluctant respect — he keeps coming back despite the barking.
+
+Rules for every candidate:
+- One line, one sentence flow, under 200 characters (aim for 110–150).
+- The voice must be a dog's: dog priorities (food, territory, routine,
+  smells, barking) and dog vocabulary — not a person in a fur suit.
+- The laugh must come from THIS dog and THIS mailman, not from a pun
+  that would fit any stranger at the door.
+- End with a turn: a twist, a contradiction, or a punchline that earns
+  the laugh. No flat endings.
+- No shock value, no cruelty, nothing off-topic.
+
+Pick the single funniest line for head-to-head judging: a house AI judge
+reads two reviews at a time and picks the funnier one, weighing the dog's
+voice, the mailman's visit, and the punchline first. The winner must beat
+generic "I bark, he runs, five stars" entries, so it needs a specific,
+un-copyable turn.
